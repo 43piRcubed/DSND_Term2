@@ -10,7 +10,7 @@ PROJECT 1:
     
     Files needed for this project:
         - survey_results_public.csv : This file contains the survey results
-        - survey_result_schema  : This file contains the Actual questions associated with the headings of the survey results
+        - survey_result_schema.csv  : This file contains the Actual questions associated with the headings of the survey results
     
         One file was generated:
         - countryRegioDic.csv : this file contains the association for each country represented in the survey to a World Region
