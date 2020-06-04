@@ -2,7 +2,7 @@ This is my reporsitory for my projects while working on My Udacity Data Scientis
 
 During this project I will be using Python 3.7 as part of an Anaconda Package.
 
-Thank you to Stack Overflow for the help it has provided me with coding question
+Thank you to Stack Overflow for the help it has provided me with coding questions
 
 PROJECT 1:
 
@@ -17,5 +17,6 @@ PROJECT 1:
         
         My Analyses can be found in the jupyter notebook:
         
-        JobSatisfactionByWorldRegion.ipynb
+        JobSatisfactionByWorldRegion.ipynb  
         
+        and the main findings can be found [here](actual URL to navigate)
